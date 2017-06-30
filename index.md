@@ -22,6 +22,12 @@ knit        : slidify::knit2slides
 ## Slide 2
 1. $x^2$
 2. $$\frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$$
-
+3. $$
+    \begin{aligned}
+    \dot{x} & = \sigma(y-x)\\
+    \dot{y} & = \rho x - y - xz \\
+    \dot{z} & = -\beta z + xy
+    \end{aligned}
+    $$
 
 
